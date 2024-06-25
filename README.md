@@ -5,7 +5,7 @@ Inspired from a Idea while self-learning how to code/mod, as the development of 
 
 ### The planned changes will apply to:
 
-\> UI Theme (Color)
+\> UI Theme (Color & Main Menu)
 
 \> Story & the World
 
