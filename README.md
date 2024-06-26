@@ -1,11 +1,11 @@
 # Broken Dreams Correctional Center: Desolate Hope
-A Modified BDCC that focuses on doing a total-conversion of the game. 
+A Modified BDCC that focuses on doing a total Overhaul of the game. 
 
 Inspired from a Idea while self-learning how to code/mod, as the development of the modification will be slow.
 
 ### The planned changes will apply to:
 
-\> UI Theme (Color & Main Menu)
+\> Main Menu
 
 \> Story & the World
 
